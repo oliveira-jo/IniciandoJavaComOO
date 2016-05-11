@@ -1,7 +1,7 @@
 /*
 * Primeiro programa em java, um Hello work simples apenas para entender a linguagens e suas formas
 */
-package IniciandoJava;
+package Cap1IniciandoJava;
 
 public class FirstProgram {
     
