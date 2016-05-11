@@ -33,6 +33,8 @@ public class TestaGereniadorDeImpostoDeRenda {
         gerenciador.adiciona(cc);
         
         System.out.println(gerenciador.getTotal());
+        //método printf para imprimir o saldo com exatamente duas casas deimais
+        System.out.printf("CC Saldo: %.2f", cc.getSaldo());
     }
     
 }
