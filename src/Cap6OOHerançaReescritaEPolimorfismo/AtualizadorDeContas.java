@@ -4,7 +4,6 @@
 **/
 package Cap6OOHerançaReescritaEPolimorfismo;
 
-
 public class AtualizadorDeContas {
     private double saldoTotal=0;
     private double selic;

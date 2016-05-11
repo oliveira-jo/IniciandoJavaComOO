@@ -1,6 +1,5 @@
 package Cap6OOHerançaReescritaEPolimorfismo;
 
-
 public class TestaConta {
     
     public static void main(String[] args) {

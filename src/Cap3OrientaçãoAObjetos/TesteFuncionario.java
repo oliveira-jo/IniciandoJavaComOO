@@ -1,6 +1,4 @@
-
 package Cap3OrientaçãoAObjetos;
-
 
 public class TesteFuncionario {
     

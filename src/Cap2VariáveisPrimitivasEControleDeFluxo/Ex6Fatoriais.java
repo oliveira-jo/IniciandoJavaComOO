@@ -6,7 +6,6 @@
 **/
 package Cap2VariáveisPrimitivasEControleDeFluxo;
 
-
 public class Ex6Fatoriais {
     
     public static void main(String[] args) {

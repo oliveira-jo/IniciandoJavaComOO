@@ -6,7 +6,6 @@
 **/
 package Cap5ModificadoresDeAcesso;
 
-
 public class Funcionario {
     private String nome;
     private String partamento;

@@ -3,7 +3,6 @@
 */
 package Cap2VariáveisPrimitivasEControleDeFluxo;
 
-
 public class Ex2OpcionalExercicioSimples {
     
     public static void main(String[] args) {

@@ -1,6 +1,5 @@
 package Cap6OOHerançaReescritaEPolimorfismo;
 
-
 public class ContaCorrente extends Conta{
 
     public ContaCorrente(int num) {

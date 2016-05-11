@@ -8,7 +8,6 @@
 **/
 package Cap5ModificadoresDeAcesso;
 
-
 public class Empresa {
     
     private String nome;

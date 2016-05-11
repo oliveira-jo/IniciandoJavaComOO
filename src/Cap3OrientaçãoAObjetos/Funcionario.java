@@ -1,5 +1,4 @@
 /*
-* 
 * Modele um funcionário. Ele deve ter o nome do funcionário, o departamento onde trabalha, seu salário
 * (double), a data de entrada no banco (String), seu RG (String) e um valor booleano que indique se o
 * funcionário está na empresa no momento ou se já foi embora.
@@ -12,10 +11,8 @@
 * 
 * Transforme o modelo acima em uma classe Java. Teste-a, usando uma outra classe que tenha o main. Você
 * deve criar a classe do funcionário chamada Funcionario, e a classe de teste você pode nomear como quiser.
-* 
 **/
 package Cap3OrientaçãoAObjetos;
-
 
 public class Funcionario {
     public String nome;

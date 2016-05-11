@@ -3,7 +3,6 @@
  **/
 package Cap6OOHerançaReescritaEPolimorfismo;
 
-
 public class Banco {
     
     private String nome;

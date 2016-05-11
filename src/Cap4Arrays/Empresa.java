@@ -5,7 +5,6 @@
 package Cap4Arrays;
 import Cap3OrientaçãoAObjetos.Funcionario;
 
-
 public class Empresa {
     
     public String nome;

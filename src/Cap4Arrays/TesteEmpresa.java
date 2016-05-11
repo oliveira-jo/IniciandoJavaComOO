@@ -11,7 +11,6 @@ package Cap4Arrays;
 
 import Cap3OrientaçãoAObjetos.Funcionario;
 
-
 public class TesteEmpresa {
     
     public static void main(String[] args) {

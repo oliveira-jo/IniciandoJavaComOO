@@ -1,6 +1,5 @@
 package Cap6OOHerançaReescritaEPolimorfismo;
 
-
 public class ContaPoupanca extends Conta{
     
     public ContaPoupanca(int numeroDaConta){

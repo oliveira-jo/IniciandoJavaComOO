@@ -4,7 +4,6 @@
  **/
 package Cap6OOHerançaReescritaEPolimorfismo;
 
-
 public class Conta {
     
     protected int numeroDaConta;
