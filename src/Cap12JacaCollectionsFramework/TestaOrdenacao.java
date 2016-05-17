@@ -9,10 +9,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/**
- *
- * @author Oliveira_jo
- */
 public class TestaOrdenacao {
     public static void main(String[] args) {
         
