@@ -1,0 +1,5 @@
+Todo mundo já passou por problemas com character encodings. 
+Quem nunca abriu uma conexão JDBC com o MySQL e puxou do banco 
+um monte de caracteres onde em vez de acentos só se viam pontos 
+de interrogação e caracteres estranhos?
+*Exemplo de Arquivo…
